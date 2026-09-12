@@ -1,0 +1,14 @@
+# Dataset (downloaded via Kaggle API — see README)
+twcs/
+*.csv
+customer-support-on-twitter.zip
+
+# Kaggle credentials — never commit this
+kaggle.json
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
