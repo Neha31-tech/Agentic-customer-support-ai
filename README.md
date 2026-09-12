@@ -99,5 +99,4 @@ A Gradio web interface lets a user type any support query and see the full agent
 - Kaggle. *Customer Support on Twitter* dataset.
 
 ## Author
-Neha — MSc Artificial Intelligence, University of East London
-[LinkedIn](https://www.linkedin.com/in/Neha/)
+Neha 
